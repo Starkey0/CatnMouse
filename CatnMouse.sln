@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatnMouse.Plugins", "CatnMouse.Plugins.csproj", "{335BAF42-9576-EC98-FA5A-973BB274A033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatnMouse", "CatnMouse.csproj", "{67957117-F492-41D0-F888-ACE4BA6AD49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatnMouse.Editor", "CatnMouse.Editor.csproj", "{DFC2458A-E9BB-5EB7-A616-75AD0F848C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335BAF42-9576-EC98-FA5A-973BB274A033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335BAF42-9576-EC98-FA5A-973BB274A033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335BAF42-9576-EC98-FA5A-973BB274A033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335BAF42-9576-EC98-FA5A-973BB274A033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67957117-F492-41D0-F888-ACE4BA6AD49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67957117-F492-41D0-F888-ACE4BA6AD49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67957117-F492-41D0-F888-ACE4BA6AD49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67957117-F492-41D0-F888-ACE4BA6AD49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC2458A-E9BB-5EB7-A616-75AD0F848C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC2458A-E9BB-5EB7-A616-75AD0F848C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC2458A-E9BB-5EB7-A616-75AD0F848C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC2458A-E9BB-5EB7-A616-75AD0F848C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
